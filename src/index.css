@@ -3,6 +3,10 @@ body {
   height: 100vh;
   width: 100vw;
   margin: 0;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzA1PXn73-kWMu3IXD5f0ZVBrpcvU_HodV8g&usqp=CAU");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #app {
